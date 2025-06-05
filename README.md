@@ -1,4 +1,4 @@
-#Contagem Regressiva em Python#
+*Contagem Regressiva em Python*
 
 Sobre o Projeto
 Este é um projeto simples em Python que realiza uma contagem regressiva de 10 até 0, com uma pausa de 1 segundo entre cada número, simulando uma contagem para um evento como estouro de fogos. O objetivo é praticar conceitos básicos de programação como loops, funções e manipulação de tempo.
@@ -31,5 +31,5 @@ Contagem regressiva para o estouro de fogos!
 0
 BOOOOOMMMMMM!
 
-Autor
+Autora
 Daiane Moreira Horbach 
